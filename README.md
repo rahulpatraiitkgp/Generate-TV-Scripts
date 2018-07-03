@@ -12,3 +12,5 @@ As a CS minor student of IIT Kharagpur and a long-time self-taught learner, I ha
 ## Helpful Link For The Project: 
    Recurrent Networks [https://classroom.udacity.com/nanodegrees/nd101-innl/parts/8967d5e5-ef60-4734-b798-d166ed7146e3]
 
+## Main Kaggle Competition:
+The Simpsons by the Data (https://www.kaggle.com/wcukierski/the-simpsons-by-the-data)
